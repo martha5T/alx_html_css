@@ -9,12 +9,12 @@ header
 {
     border: 2px solid black;
     height: 100px;
+    padding: 5px;
 }
 
 header div
 {
     border: 1px solid black;
-    /* height/ inherit/ */
     display: flex;
     padding: 10px;
     justify-content: space-between;
@@ -35,7 +35,3 @@ header div div a
     justify-content: center;
 }
 
-header div div a span
-{
-    text-align: center;
-}
