@@ -1,5 +1,7 @@
 HTML, advanced
+
 TASKS.
+
 0. README and objectives!
 In this and coming projects, you will implement from scratch a webpage from a designer file.
 
