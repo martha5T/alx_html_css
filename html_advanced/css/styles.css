@@ -1,0 +1,41 @@
+body
+{
+    border: 3px solid black;
+    height: 100vh;
+    padding: 10px;
+}
+
+header
+{
+    border: 2px solid black;
+    height: 100px;
+}
+
+header div
+{
+    border: 1px solid black;
+    /* height/ inherit/ */
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+header div div
+{
+    border: 1px solid red;
+    width: 250px;
+    border-radius: 5px;
+}
+
+header div div a
+{
+    border: 1px solid green;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+header div div a span
+{
+    text-align: center;
+}
