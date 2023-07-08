@@ -15,6 +15,7 @@ header
 header div
 {
     border: 1px solid black;
+    /* height: inherit; */
     display: flex;
     padding: 10px;
     justify-content: space-between;
