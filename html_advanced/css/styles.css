@@ -37,6 +37,9 @@ header div
 #nav-links
 {
    width: 400px;
+   padding: 0;
+   display: flex;
+   justify-content: center;
    
 }
 
