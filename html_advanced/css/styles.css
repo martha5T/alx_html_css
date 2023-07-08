@@ -43,7 +43,7 @@ header div
     justify-content: center;
 }
 
-#nav-links
+#nav-links a
 {
     border: 1px solid red;
     width: 100px;
