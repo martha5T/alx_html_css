@@ -39,6 +39,7 @@ header div
    width: 400px;
    padding: 0;
    display: flex;
+   gap: 10px;
    justify-content: center;
    
 }
