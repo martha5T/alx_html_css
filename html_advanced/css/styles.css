@@ -34,3 +34,13 @@ header div
     justify-content: center;
 }
 
+#nav-links
+{
+    width: 400px;
+}
+
+#nav-links
+{
+    border: 1px solid red;
+}
+
