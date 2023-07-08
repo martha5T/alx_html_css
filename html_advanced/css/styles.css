@@ -53,3 +53,22 @@ header div
    justify-content: center;
 }
 
+main
+{
+    border: 2px solid black;
+    height: inherit;
+    margin: 10px;
+    padding: 5px;
+}
+
+main section
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#hero-section div
+{
+    border: 1px solid black;
+}
+
