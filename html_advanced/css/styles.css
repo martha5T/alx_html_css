@@ -20,13 +20,13 @@ header div
     justify-content: space-between;
 }
 
-header div div
+.company-logo
 {
     border: 1px solid red;
     width: 250px;
 }
 
-header div div a
+.company-logo a
 {
     border: 1px solid green;
     width: inherit;
