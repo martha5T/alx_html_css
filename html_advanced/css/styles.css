@@ -42,6 +42,6 @@ header div
 
 #nav-links a
 {
-    
+   border: 1px solid red; 
 }
 
