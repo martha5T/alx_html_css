@@ -38,7 +38,7 @@ header div
 {
     width: 400px;
     padding: 0;
-    display: -moz-deck;
+    display: flex;
     gap: 10px;
     justify-content: center;
 }
@@ -47,7 +47,7 @@ header div
 {
     border: 1px solid red;
     width: 100;
-    display: -moz-deck;
+    display: flex;
     align-content: center;
     justify-content: center;
 }
