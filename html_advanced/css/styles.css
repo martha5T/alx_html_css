@@ -89,17 +89,17 @@ main section
     border: 1px solid orange;
 }
 
-#hero-section div h2
+#section div h2
 {
     border: 1px solid blue; 
 }
 
-#hero-section div a
+#section div a
 {
     border: 1px solid green;
 }
 
-#hero-section div p
+#section div p
 {
     border: 1px solid purple;
 }
