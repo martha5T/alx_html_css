@@ -77,17 +77,14 @@ main section
 #hero-section div h1
 {
     border: 1px solid blue;
-    margin: 0;
 }
 
 #hero-section div p
 {
     border: 1px solid purple;
-    margin: 0;
 }
 
 #hero-section div button
 {
     border: 1px solid orange;
-    margin: 0;
 }
