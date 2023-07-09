@@ -88,3 +88,18 @@ main section
 {
     border: 1px solid orange;
 }
+
+#hero-sectio div h2
+{
+    border: 1px solid blue; 
+}
+
+#hero-section div a
+{
+    border: 1px solid green;
+}
+
+#hero-section div p
+{
+    border: 1px solid purple;
+}
