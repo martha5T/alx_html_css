@@ -10,26 +10,6 @@ header
     padding: 20px 0;
 	height: 80px;
 }
-header ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-header li {
-	display: flex;
-}
-header li:first-child {
-	margin: 0;
-}
-header li a {
-	margin: 0 10px;
-}
-header li.logo {
-	font-size: 36px;
-}
-header a {
-	text-decoration: none;
-}
 
 main
 {
