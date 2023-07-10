@@ -8,8 +8,7 @@ main
 {
     display: flex;
     flex-direction: row;
-    width: auto;
-    height: auto;
+    flex: auto;
 }
 
 #main-article
