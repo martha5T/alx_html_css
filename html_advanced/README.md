@@ -111,4 +111,4 @@ A block with inside:
 Images with link
 A text
 
-![images][cat-g38da5a592_1280]
+![images][cat-g38d![Alt text](cat-g38da5a592_1280.jpg)a5a592_1280]
