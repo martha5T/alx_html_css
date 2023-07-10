@@ -16,8 +16,7 @@ header ul {
 	padding: 0;
 }
 header li {
-	display: inline;
-	vertical-align:middle;
+	display: flex;
 }
 header li:first-child {
 	margin: 0;
