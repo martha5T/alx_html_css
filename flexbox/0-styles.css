@@ -184,6 +184,7 @@
     margin: 0;
     padding: 0;
     display: flex;
+    text-align: justify;
     list-style: none;
   }
   
