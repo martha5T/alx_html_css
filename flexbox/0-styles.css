@@ -183,12 +183,12 @@
   ul.row {
     margin: 0;
     padding: 0;
+    display: flex;
     list-style: none;
   }
   
   [class*='col-'] {
     padding: 0.5rem;
-    user-select: all;
     display: flex;
   }
   
