@@ -370,10 +370,10 @@
     padding: 10rem 40rem 2rem 0;
   }
 
-  /* Section SERVICES ============================= */
+  /* Section Latest news ============================= */
 
-  .section-services .row {
-    flex-wrap: wrap;
+  .section-latest-news .row {
+    flex-direction: row-reverse;
   }
   
   /*** 4. CARD ***/
