@@ -13,7 +13,6 @@
     <!--Header-->
     <header class="header" data-section-theme="dark">
       <div class="container">
-        <div class="wrapper">
         <div class="header-logo">
           <a href="#">
             <img src="images/logo-white.png" alt="Techium logo" width="160" height="40">
@@ -45,6 +44,7 @@
           </ul>
         </nav>
       </div>
+      $('.header-logo, .navbar-menu').wrapAll('<div class="child"></div>')
     </header>
     <!– Main –>
     <main>
